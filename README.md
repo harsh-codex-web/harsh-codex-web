@@ -1,11 +1,11 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Bungee&letterSpacing=1&pause=1000&color=0DF723&background=B0FF3700&center=true&multiline=true&width=435&lines=HII++I++AM+++HARSH+MAURYA" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Bungee&letterSpacing=1&pause=1000&color=0DF723&background=B0FF3700&center=true&multiline=true&width=435&lines=HII++I++AM+++HARSH+Codex" alt="Typing SVG" /></a>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 
 <p align="center">
-<img src="https://github.com/Harsh-Maurya-coder/harsh-maurya-coder/blob/main/image/0204.gif">
+<img src="https://github.com/Harsh-codex-web/harsh-codex-web/blob/main/image/0204.gif">
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -15,7 +15,7 @@
 
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
-<a href="https://www.youtube.com/watch?v=T8AvyTTcTAk"><img src="https://github.com/Harsh-Maurya-coder/harsh-maurya-coder/blob/main/image/Untitled%20design%20(3).gif" height="130" width="300"></a>
+<a href="https://www.youtube.com/watch?v=T8AvyTTcTAk"><img src="https://github.com/Harsh-codex-web/harsh-codex-web/blob/main/image/Untitled%20design%20(3).gif" height="130" width="300"></a>
 
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
